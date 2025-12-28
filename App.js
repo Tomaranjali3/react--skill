@@ -4,7 +4,7 @@
  *      <div id="child1">
  *          <h1 id="heading">Hello World from React!</h1>
  *          <h2>This is h2 tag</h2>
- *           </div>
+ *           </div>     
  * </div>
  * 
  * 
